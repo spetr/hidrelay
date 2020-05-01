@@ -1,4 +1,4 @@
-module git.digitaldata.cz/digitaldata/hidrelay
+module github.com/spetr/hidrelay
 
 go 1.14
 
