@@ -1,4 +1,4 @@
-module git.digitaldata.cz/digitaldata/usbrelay
+module git.digitaldata.cz/digitaldata/hidrelay
 
 go 1.14
 
